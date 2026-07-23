@@ -1,0 +1,6 @@
+{
+  "name": "H-Engineers Enterprise",
+  "description": "Modern, multidisciplinary engineering and infrastructure solutions provider specializing in electrical engineering, renewable energy, security, and ICT infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
